@@ -24,4 +24,10 @@ Ethical Hacking | Penetration Testing | TryHackMe | HackTheBox | Cybersecurity A
 - **CYBER COMET-DUKA**
 - **CYBER GHOST**
 
-*Search CYBERSTAR-DUKA to find me on Google.*
+*Search CYBERSTAR-DUKA to find me on Google.*.  ## 🚀 22 Sept 2026 - Day 1 Win!
+- LinkedIn: From 0 to 19 impressions in 37 mins!
+- First story: "From Yobe to the World" LIVE
+- TryHackMe Pre-Security 6% -> Growing
+- Goal: Rank #1 for CYBERSTAR-DUKA
+
+Yobe to World - We MOVE!
