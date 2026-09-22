@@ -1,5 +1,7 @@
 # CYBERSTAR-DUKA 🌟
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cyberstarduka.png)
 
+🎯 TryHackMe: https://tryhackme.com/p/cyberstarduka
 ### Cybersecurity Researcher | Ethical Hacker | Founder of CYBER STARS⭐
 
 **Location:** Damaturu, Yobe State, Nigeria | Originally from Gwoza, Borno State, Nigeria
